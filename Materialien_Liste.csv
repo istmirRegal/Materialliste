@@ -28,7 +28,7 @@
 ;22;Farbmittel;X;FM-PI-001;Birkenblätter 38500;1;Kleines Fläschen
 ;23;Farbmittel;X;FM-PI-001;Thermochrom Pigment Purple 56843 ;1;Kleines Fläschen
 ;24;Farbmittel;X;FM-PI-001;Nigrosin 94050;1;Kleines Fläschen
-;358;Farbmittel;X;FM-PI-001;Aegirin, fein;1;358-1 Fläschchen
+;358;Farbmittel;X;FM-PI-001;Aegirin fein;1;358-1 Fläschchen
 ;359;Farbmittel;X;FM-PI-001;Uranin ;1;359-1 Fläschchen
 ;396;Fertigungsbeispiele;Faserverbundwerkstoffe;FB-X-007;Faserverbundwerkstoffe;7;396-1 Carbon-/Aramidfasern und Epoxisharz, gewickelt
 ;396;Fertigungsbeispiele;Faserverbundwerkstoffe;FB-X-007;Faserverbundwerkstoffe;;396-2 Carbonfasern und Epoxidharz
@@ -79,17 +79,17 @@
 ;31;Glas;Glas Werkstoffe;xx;Floatglas;;31-3 blaus durchfärbte Floatglas
 ;31;Glas;Glas Werkstoffe;xx;Floatglas;;31-4 graus durchfärbtes Floatglas
 ;31;Glas;Glas Werkstoffe;xx;Floatglas;;31-5 bronze durchfärbtes Floatglas
-;31;Glas;Glas Werkstoffe;xx;Floatglas;;31-6 transparent, 8mm Stärke
+;31;Glas;Glas Werkstoffe;xx;Floatglas;;31-6 transparent 8mm Stärke
 ;32;Glas;Glas Werkstoffe;GL-GW-005;ESG;1;32-1 blau
 ;33;Glas;Glas Werkstoffe;GL-GW-006;Glaskeramik;1;33-1 chinesisch
 ;34;Glas;Glas Werkstoffe;GL-GW-006;Blähglasgranulat;1;34-1 Quadrat
-;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;8;35- 1 klein, grün
+;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;8;35- 1 klein grün
 ;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;;35- 2 lackiert gold 
-;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;;35- 3 groß, durchsichtigg
-;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;;35 -4 grün, bauchig
-;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 5 braun, mittel
-;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 6 dunkelgrün, mittel
-;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 7 grün, mit Prägung
+;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;;35- 3 groß durchsichtigg
+;35;Glas;Glas Werkstoffe;GL-GW-007;Flaschen;;35 -4 grün bauchig
+;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 5 braun mittel
+;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 6 dunkelgrün mittel
+;35;Glas;Glas Werkstoffe;GL-GW-008;Flaschen;;35- 7 grün mit Prägung
 ;223;Glas;X;GL-X-009;Glasfaser;1;223-1 Glasfaser weiß
 ;389;Glas;X;GL-X-009;Glasfasergewebe;2;389-1 Mustermappe 'Brillux CreaGlas Gewebe'
 ;389;Glas;X;GL-X-009;Glasfasergewebe;;389-2 Mustermappe 'Sto'
@@ -101,10 +101,10 @@
 ;37;Holz;Holzwerkstoff;HO-HW-029;Akusitkplatten;;37- 9 stoffeingebunden
 ;38;Holz;Holzwerkstoff;HO-HW-002;Langspanplatte OSB ;1;38-1 natur
 ;39;Holz;Holzwerkstoff;HO-HW-002;Kunststoffbelegte Spanplatte;1;39-1 weiss
-;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;5;40-1 Buche, schwer entflammbar
-;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-2 Fassadenplatte, Lärche
+;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;5;40-1 Buche schwer entflammbar
+;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-2 Fassadenplatte Lärche
 ;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-3 Speerholz Ahorn
-;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-4 Buche, verleimt
+;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-4 Buche verleimt
 ;40;Holz;Holzwerkstoff;HO-HW-002;Schichtholz;;40-5 bearbeitet mit Aluminiumplatte
 ;41;Holz;Holzwerkstoff;HO-HW-002;Brettschichtholz;2;41-1
 ;41;Holz;Holzwerkstoff;HO-HW-002;Brettschichtholz;;41-2
@@ -112,13 +112,13 @@
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-19 Beton-Optik
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-20 Rost- Optik
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-21 Beton- Optik
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-22 glatt, schwarz
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-23 Beton- Optik, grau, glatt, dünn
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-22 glatt schwarz
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-23 Beton- Optik grau glatt dünn
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-24 Hochglanz weiss
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-25 Altholz- Optik, grau
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-26 Beton- Optik, schwarz
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-27 Altholz- Optik, rustikal
-;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-28 Beton- Optik, grau
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-25 Altholz- Optik grau
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-26 Beton- Optik schwarz
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-27 Altholz- Optik rustikal
+;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-28 Beton- Optik grau
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-29 Stein- Optik
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;42-30 Musterkarte Beton- & Rost-Optik
 ;42;Holz;Holzwerkstoff;HO-HW-003;Dekorativbeschichtete Holzfaserplatte;;43-31 Design Wandverkleidung Grau
@@ -141,29 +141,29 @@
 ;46;Holz;Holzwerkstoff;HO-HW-022;Laminat;;46-13 Eiche gebürstet Schiffsboden
 ;46;Holz;Holzwerkstoff;HO-HW-022;Laminat;;46-14 Eiche Planke 
 ;46;Holz;Holzwerkstoff;HO-HW-022;Laminat;;46-15 Eiche heritage braun
-;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-16 Eiche geölt, hell
+;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-16 Eiche geölt hell
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-17 Eiche Soft-Nelke
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-18 Eiche antikgrau
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-19 Eiche Schiefer
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-20 Eiche Creme
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-21 Eiche hell
-;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-22 Risseiche, Natur
+;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-22 Risseiche Natur
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-23 Eiche cremeweiß
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-24 Eiche rustikal
 ;46;Holz;Holzwerkstoff;HO-HW-023;Laminat;;46-25 Eiche nougat
 ;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-26 Eiche Muskat
 ;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-27 Eiche Struktur
-;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-28 Eiche rustikal, Gebürstet
+;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-28 Eiche rustikal Gebürstet
 ;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-29 Schneeeiche
 ;46;Holz;Holzwerkstoff;HO-HW-024;Laminat;;46-30 Japanische Weißeiche
-;46;Holz;Holzwerkstoff;HO-HW-025;Laminat;;46-31 Buche, Schiffsboden
+;46;Holz;Holzwerkstoff;HO-HW-025;Laminat;;46-31 Buche Schiffsboden
 ;46;Holz;Holzwerkstoff;HO-HW-025;Laminat;;46-32 Landhausbuche
 ;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-33 Ahorn antik
 ;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-34 Ahorn Schiffsboden
 ;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-35 Ahorn
-;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-36 Ahorn, weiß, Landhausdiele
+;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-36 Ahorn weiß Landhausdiele
 ;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-37 Bergahorn
-;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-54 Eiche Landhausdiele weiß, Unterseite Kork 
+;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-54 Eiche Landhausdiele weiß Unterseite Kork 
 ;46;Holz;Holzwerkstoff;HO-HW-026;Laminat;;46-55 Rusitikalstruktur 4-seitige V-Fuge 
 ;46;Holz;Holzwerkstoff;HO-HW-027;Laminat;;46-38 Meringue
 ;46;Holz;Holzwerkstoff;HO-HW-027;Laminat;;46-39 Teak dark
@@ -174,12 +174,12 @@
 ;46;Holz;Holzwerkstoff;HO-HW-027;Laminat;;46-44 Seegras
 ;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-45 Kakao
 ;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-46 Kirsche
-;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-47 Stein, hell
+;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-47 Stein hell
 ;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-48 Seidenholz
-;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-49 Leinen, weiß, matt
-;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-50 Leinen, weiß, hochglanz
-;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-51 Rubinrot, matt
-;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-52 Rubinrot, hochglanz
+;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-49 Leinen weiß matt
+;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-50 Leinen weiß hochglanz
+;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-51 Rubinrot matt
+;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-52 Rubinrot hochglanz
 ;46;Holz;Holzwerkstoff;HO-HW-028;Laminat;;46-53Prsident Nightshade (mit Kork)
 ;47;Holz;Holzwerkstoff;HO-HW-005;Melaminbeschichtete Holzspanplatte;5;47- 1 weiss
 ;47;Holz;Holzwerkstoff;HO-HW-005;Melaminbeschichtete Holzspanplatte;;47- 2 Holz-Optik
@@ -200,14 +200,14 @@
 ;50;Holz;Holzwerkstoff;HO-HW-006;Parkett/ Verbundplatte mit Nut und Kamm;;50- 11 Muiracatiara
 ;50;Holz;Holzwerkstoff;HO-HW-006;Parkett/ Verbundplatte mit Nut und Kamm;;50- 12 Musterbuch
 ;50;Holz;Holzwerkstoff;HO-HW-006;Parkett/ Verbundplatte mit Nut und Kamm;;50- 13 Eiche lebhaft
-;50;Holz;Holzwerkstoff;HO-HW-006;Parkett/ Verbundplatte mit Nut und Kamm;;50- 14 Eiche, uv-geölt
+;50;Holz;Holzwerkstoff;HO-HW-006;Parkett/ Verbundplatte mit Nut und Kamm;;50- 14 Eiche uv-geölt
 ;53;Holz;Holzwerkstoff;HO-HW-007;Aluminiumbeschichtete Holzplatte;1;53-1 braun
 ;55;Holz;Holzwerkstoff;HO-HW-007;Holzfaser- Dämmplatte;1;55-1 natur
 ;56;Holz;Laubhölzer;HO-LB-008;Teak;3;56- 1 Teak Quadrat
 ;56;Holz;Laubhölzer;HO-LB-008;Teak;;56- 2 Teak Quadrat
 ;56;Holz;Laubhölzer;HO-LB-008;Teak;;56- 3 länglich
 ;57;Holz;Laubhölzer;HO-LB-008;Cumaru;1;57-1 Quadrat
-;58;Holz;Laubhölzer;HO-LB-008;Buche;3;58-1 massiv, geölt
+;58;Holz;Laubhölzer;HO-LB-008;Buche;3;58-1 massiv geölt
 ;58;Holz;Laubhölzer;HO-LB-008;Buche;;58-2 unbearbeitet
 ;58;Holz;Laubhölzer;HO-LB-008;Buche;;58-3 lang
 ;59;Holz;Laubhölzer;HO-LB-008;Tatajuba;1;59-1 Quadrat
@@ -222,11 +222,11 @@
 ;63;Holz;Laubhölzer;HO-LB-010;Kastanie;;63-5 Funier Räucherkastanie
 ;64;Holz;Laubhölzer;HO-LB-010;Flieder;1;64-1 unbearbeitet
 ;65;Holz;Laubhölzer;HO-LB-010;Nussbaum;2;65-1 dunkel
-;65;Holz;Laubhölzer;HO-LB-010;Nussbaum;;65-2 Dekor, gekalkt
+;65;Holz;Laubhölzer;HO-LB-010;Nussbaum;;65-2 Dekor gekalkt
 ;66;Holz;Laubhölzer;HO-LB-011;Olivenbaum;2;66-1 unbearbeitet
 ;66;Holz;Laubhölzer;HO-LB-011;Olivenbaum;;66-2 Funier
 ;67;Holz;Laubhölzer;HO-LB-011;Buchsbaum;1;67-1 unbearbeitet
-;68;Holz;Laubhölzer;HO-LB-011;Ebenholz;2;68-1 kleines, schwarzes Stück
+;68;Holz;Laubhölzer;HO-LB-011;Ebenholz;2;68-1 kleines schwarzes Stück
 ;68;Holz;Laubhölzer;HO-LB-011;Ebenholz;;68-2 Weisses Ebenholz Funier
 ;69;Holz;Laubhölzer;HO-LB-011;Sipo- Mahagonie;1;69-1 unbearbeitet
 ;70;Holz;Laubhölzer;HO-LB-012;Platane;2;70-1 unbearbeitet
@@ -234,18 +234,18 @@
 ;71;Holz;Laubhölzer;HO-LB-012;Eiche;12;70-1 Eiche geölt
 ;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-2 unbearbeitet
 ;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-3 Eiche
-;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-4 Dekor, grau mit Echtholzstruktur
+;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-4 Dekor grau mit Echtholzstruktur
 ;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-5 Funier
 ;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-6 Funier
-;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-7/11 Räuchereiche, Funier
-;71;Holz;Laubhölzer;HO-LB-013;Eiche;;71-12 Design Wandpanele Karo,gefärbt
+;71;Holz;Laubhölzer;HO-LB-012;Eiche;;70-7/11 Räuchereiche Funier
+;71;Holz;Laubhölzer;HO-LB-013;Eiche;;71-12 Design Wandpanele Karo gefärbt
 ;72;Holz;Laubhölzer;HO-LB-013;Pink Ivory;1;72-1 unbearbeitet
 ;73;Holz;Laubhölzer;HO-LB-013;Wengé;1;73-1 unbearbeitet
 ;74;Holz;Laubhölzer;HO-LB-013;Ziricote;1;74-4 unbearbeitet
 ;75;Holz;Laubhölzer;HO-LB-013;Robinie;2;75-1 unbearbeitet
 ;75;Holz;Laubhölzer;HO-LB-013;Robinie;;75-2 lang
 ;76;Holz;Laubhölzer;HO-LB-013;Kirschbaum;2;76-1 unbearbeitet
-;76;Holz;Laubhölzer;HO-LB-013;Kirschbaum;;76-2 Funier, geräuchert
+;76;Holz;Laubhölzer;HO-LB-013;Kirschbaum;;76-2 Funier geräuchert
 ;77;Holz;Laubhölzer;HO-LB-014;Esche;1;77-1 lang
 ;78;Holz;Laubhölzer;HO-LB-014;Französischer Nussbaum;2;78-1/2 lang
 ;79;Holz;Laubhölzer;HO-LB-014;Birke;1;79-1 lang
@@ -257,25 +257,25 @@
 ;85;Holz;Laubhölzer;HO-LB-015;Pfaffenhütchen;1;85-1 unbearbeitet
 ;86;Holz;Laubhölzer;HO-LB-015;Schnurbaum;1;86-1 unbearbeitet
 ;87;Holz;Laubhölzer;HO-LB-015;Pan Rosa;1;87-1 unbearbeitet
-;88;Holz;Laubhölzer;HO-LB-015;Buffalo Oak;1;88-1 Funier, geräuchert
-;89;Holz;Laubhölzer;HO-LB-015;Roteiche;1;89-1 Funier, geräuchert
-;91;Holz;Laubhölzer;HO-LB-016;Akazie;1;91-1 Funier, geräuchert
+;88;Holz;Laubhölzer;HO-LB-015;Buffalo Oak;1;88-1 Funier geräuchert
+;89;Holz;Laubhölzer;HO-LB-015;Roteiche;1;89-1 Funier geräuchert
+;91;Holz;Laubhölzer;HO-LB-016;Akazie;1;91-1 Funier geräuchert
 ;93;Holz;Laubhölzer;HO-LB-016;Elsbeere;1;93-1 Funier
-;94;Holz;Laubhölzer;HO-LB-016;Sapeli;1;94-1 Funier, geräuchert
+;94;Holz;Laubhölzer;HO-LB-016;Sapeli;1;94-1 Funier geräuchert
 ;95;Holz;Laubhölzer;HO-LB-016;Makassar;1;95-1 Funier
 ;96;Holz;Laubhölzer;HO-LB-016;Apfelbaum;1;96-1 Funier
 ;97;Holz;Laubhölzer;HO-LB-016;Tulpenbaum;1;97-1 Funier
 ;98;Holz;Laubhölzer;HO-LB-016;Magnolie;1;98-1 Funier
 ;99;Holz;Laubhölzer;HO-LB-016;Tineo;2;99-1 Funier
-;99;Holz;Laubhölzer;HO-LB-016;Tineo;;99-2 Funier, geräuchert
+;99;Holz;Laubhölzer;HO-LB-016;Tineo;;99-2 Funier geräuchert
 ;62;Holz;Nadelhölzer;HO-NH-017;Eibe;;62-3 unbearbeitet
-;92;Holz;Nadelhölzer;HO-NH-017;Douglaise;1;92-1 Funier, geräuchert
-;100;Holz;Nadelhölzer;HO-NH-018;Fichte;3;100-1 massiv, creme
-;100;Holz;Nadelhölzer;HO-NH-018;Fichte;;100-2 massiv, gewachst
-;100;Holz;Nadelhölzer;HO-NH-018;Fichte;;100-3 massiv, weiss
+;92;Holz;Nadelhölzer;HO-NH-017;Douglaise;1;92-1 Funier geräuchert
+;100;Holz;Nadelhölzer;HO-NH-018;Fichte;3;100-1 massiv creme
+;100;Holz;Nadelhölzer;HO-NH-018;Fichte;;100-2 massiv gewachst
+;100;Holz;Nadelhölzer;HO-NH-018;Fichte;;100-3 massiv weiss
 ;100;Holz;Nadelhölzer;HO-NH-018;Fichte;;100-4 lang
 ;101;Holz;Nadelhölzer;HO-NH-019;Lärche;4;101-1/3 lang
-;101;Holz;Nadelhölzer;HO-NH-019;Lärche;;101-4 Funier, geräuchert
+;101;Holz;Nadelhölzer;HO-NH-019;Lärche;;101-4 Funier geräuchert
 ;102;Holz;Nadelhölzer;HO-NH-019;Oregon Pine;2;102-1/2 lang
 ;103;Holz;Nadelhölzer;HO-NH-019;Yellow Pine;1;103-1 unbearbeitet
 ;104;Holz;Nadelhölzer;HO-NH-020;Kiefer;4;104-1/2 lang
@@ -322,9 +322,9 @@
 ;136;Kunstoff;Thermoplastische Elastomere;KU-TP-008;Thermoplastisches Polyurethan;;136-7 Texin
 ;137;Kunstoff;Thermoplastische Elastomere;;Silikonschaum Polydimethylsiloxan/Vinylmethylsiloxan;2;137-1  Silikonschaum Sil 16W weiß/natur rund
 ;137;Kunstoff;Thermoplastische Elastomere;;Silikonschaum Polydimethylsiloxan/Vinylmethylsiloxan;;137-2  Silikonschaum Sil 16W weiß/natur selbstklebend
-;138;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan, peroxydvernetzt;;138-1 Silicon Extrusions Grade/ Silikon 60° 
-;139;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan, peroxydvernetzt;;138-2 Dichtungsplaner
-;139;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan, peroxydvernetzt;;138-3 Broschüre Moosgummi und Silikonprofile
+;138;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan peroxydvernetzt;;138-1 Silicon Extrusions Grade/ Silikon 60° 
+;139;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan peroxydvernetzt;;138-2 Dichtungsplaner
+;139;Kunstoff;Thermoplastische Elastomere;;Vinylmethylsiloxan peroxydvernetzt;;138-3 Broschüre Moosgummi und Silikonprofile
 ;140;Kunstoff;Thermplast- Verbundwerkstoffe;KU-TP-009;Aluminium- Polyethylen- Verbundplatte;7;140-1 Dibond structure
 ;140;Kunstoff;Thermplast- Verbundwerkstoffe;KU-TP-009;Aluminium- Polyethylen- Verbundplatte;;140-2 Dibond digital
 ;140;Kunstoff;Thermplast- Verbundwerkstoffe;KU-TP-009;Aluminium- Polyethylen- Verbundplatte;;140-3 Dibond butlerfinish+
@@ -347,7 +347,7 @@
 ;115;Kunststoff;Duroplast;KU-DU-002;Polyurethan- Integralhartschaumstoff;;115-5 Baydur STR LFI
 ;115;Kunststoff;Duroplast;KU-DU-002;Polyurethan- Integralhartschaumstoff;;155-6 Bayflex (elastischer Intergalhartschaumstoff)
 ;115;Kunststoff;Duroplast;KU-DU-002;Polyurethan- Integralhartschaumstoff;;155-7 Bayflex LS (elastischer Intergalhartschaumstoff)
-;116;Kunststoff;Duroplast;KU-DU-003;Schaumstoff aus PUR;8;116-1 Bayfit+ Baytec, IMC
+;116;Kunststoff;Duroplast;KU-DU-003;Schaumstoff aus PUR;8;116-1 Bayfit+ Baytec IMC
 ;116;Kunststoff;Duroplast;KU-DU-003;Schaumstoff aus PUR;;116-2 Bayfit Memory
 ;116;Kunststoff;Duroplast;KU-DU-003;Schaumstoff aus PUR;;116-3 Bayfit Memory rosa
 ;116;Kunststoff;Duroplast;KU-DU-003;Schaumstoff aus PUR;;116-4 Bayfit
@@ -360,8 +360,8 @@
 ;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;5;128-1 Soft-touch coating Maus
 ;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-2 Soft-touch coating Platte
 ;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-3 PUR mit Naturfaser (Baypreg F sandwich)
-;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-4 Multitec RT, PUR- Sprühsystem (mehr komponentig, schnell aushärtend)
-;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-5 Multitec RS, PUR- Sprühsystem (mehr komponentig, schnell aushärtend)
+;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-4 Multitec RT PUR- Sprühsystem (mehr komponentig schnell aushärtend)
+;128;Kunststoff;Duroplast;KU-DU-004;Polyurethan;;128-5 Multitec RS PUR- Sprühsystem (mehr komponentig schnell aushärtend)
 ;130;Kunststoff;Duroplastischer Verbundwerkstoff;KU-DU-005;Kunstleder aus PUR;;130-1 textile coating weiss
 ;130;Kunststoff;Duroplastischer Verbundwerkstoff;KU-DU-005;Kunstleder aus PUR;;130-2 textile coating schwarz
 ;130;Kunststoff;Duroplastischer Verbundwerkstoff;KU-DU-005;Kunstleder aus PUR;;130-3 braun
@@ -386,8 +386,8 @@
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-2/3 mit Struktur
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-4 satinierte Oberfläche grün
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-5 Platte satiniert
-;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-6 Platte, satiniert, klar, 5mm
-;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-7 Platte, satiniert, glass-look, 4mm
+;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-6 Platte satiniert klar 5mm
+;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-7 Platte satiniert glass-look 4mm
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-8 farblos
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-9 satinierte Oberfläche blau
 ;176;Kunststoff;Thermoplast;KU-TP-023;PMMA (Plexiglas);;176-10 volldurchfärbt blau
@@ -400,10 +400,10 @@
 ;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-17 Platte grau
 ;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-18 Plexiglas Radiant/ verspieglet und mit Effekt (mehrfarbig)
 ;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-19 Stegplatte aus PMMA
-;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-20 Designverkleidung, Waterdrops
-;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-21 Designverkleidung, Kupfergitter
-;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-22 Designverkleidung, Tuch Grau
-;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-23 Designverkleidung, Blattgold
+;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-20 Designverkleidung Waterdrops
+;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-21 Designverkleidung Kupfergitter
+;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-22 Designverkleidung Tuch Grau
+;176;Kunststoff;Thermoplast;KU-TP-024;PMMA (Plexiglas);;176-23 Designverkleidung Blattgold
 ;177;Kunststoff;Thermoplast;KU-TP-030;GFIPMMA;1;177-1 Glasfasern und Polymethylmethacrylat
 ;181;Kunststoff;Thermoplast;KU-TP-30;CF/PEEK;1;181-1 Carbonfaser/ Polyetheretherketon
 ;183;Kunststoff;Thermoplast;KU-TP-030;CF/PPS;1;183-1 Carbonfasern und Polypphenylensulfid
@@ -439,8 +439,8 @@
 ;160;Kunststoff;Thermoplaste;KU-TP-031;Acrylnitril-Butadien- Styrol;1;160-1 Spritzmuster Terluran (1 Beutel)
 ;163;Kunststoff;Thermoplaste;KU-TP-018;Heterogener PVC- Bodenbelag;10;163-1/8 Musterstücke
 ;163;Kunststoff;Thermoplaste;KU-TP-018;Heterogener PVC- Bodenbelag;;163-9/10 Musterstücke sehr lang
-;163;Kunststoff;Thermoplaste;KU-TP-018;Heterogener PVC- Bodenbelag;;163-11 Vinyl, Eiche Sierra Landhausdiele
-;163;Kunststoff;Thermoplaste;XX;Heterogener PVC- Bodenbelag;;163-11 Landhausdiele Eiche gebürstete Sturktur, Holzoptik
+;163;Kunststoff;Thermoplaste;KU-TP-018;Heterogener PVC- Bodenbelag;;163-11 Vinyl Eiche Sierra Landhausdiele
+;163;Kunststoff;Thermoplaste;XX;Heterogener PVC- Bodenbelag;;163-11 Landhausdiele Eiche gebürstete Sturktur Holzoptik
 ;164;Kunststoff;Thermoplaste;KU-TP-019;Homogener PVC-Bodenbelag;15;164-1/14 Musterstücke
 ;164;Kunststoff;Thermoplaste;KU-TP-019;Homogener PVC-Bodenbelag;;164-15 Musterbuch
 ;166;Kunststoff;Thermoplaste;KU-TP-020;Polyvinylchlorid ohne  Weichmacher PVC-U;1;166-1 Renoilt Exofol PX
@@ -450,22 +450,22 @@
 ;170;Kunststoff;Thermoplaste;KU-TP-021;Wabenkernplatten;;170-13/14 PET-G- Deckschichten und PET- Kern
 ;170;Kunststoff;Thermoplaste;KU-TP-021;Wabenkernplatten;;170-15 PMMA- Deckschichten und PET- Kern
 ;171;Kunststoff;Thermoplaste;KU-TP-021;Parapan;1;
-;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;5;363-1 Modifizierte kaltwasserlösliche Folie, Stärke 40 µm (GA #40, 160 mm)
-;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-2 Konventionelle kaltwasserlösliche Folie, Stärke 30 µm (KA #30, 230 mm)
-;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-3 Modifizierte kaltwasserlösliche Folie, Stärke: 40 µm (PT #40, 230 mm)
-;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-4 Konventionelle kaltwasserlösliche Folie, Stärke: 40 µm (KA #40, 160 mm)
+;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;5;363-1 Modifizierte kaltwasserlösliche Folie Stärke 40 µm (GA #40 160 mm)
+;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-2 Konventionelle kaltwasserlösliche Folie Stärke 30 µm (KA #30 230 mm)
+;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-3 Modifizierte kaltwasserlösliche Folie Stärke: 40 µm (PT #40, 230 mm)
+;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-4 Konventionelle kaltwasserlösliche Folie Stärke: 40 µm (KA #40 160 mm)
 ;363;Kunststoff;Thermoplaste;KU-TP-027;Wasserlösliche Folie aus Polyvinylalkohol;;363-5 Info- Mappe
 ;180;Kunststoff;X;KU-TP-025;Lionleum;46;180-1/44 Musterstücke
 ;180;Kunststoff;X;KU-TP-025;Lionleum;;180-45 Musterbuch
 ;180;Kunststoff;X;KU-TP-025;Lionleum;;180-46 Produktkatalog
 ;180;Kunststoff;X;KU-TP-025;Lionleum;;180-47/48 Musterstück 'Desktop'
 ;182;Kunststoff;X;KU-TP-026;Korklinoleum;4;182-1/4 Musterstücke
-;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;4;184-1 Wölbstruktur, 0.5 mm
-;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;;184-2 Wölbstruktur, 0.4 mm
+;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;4;184-1 Wölbstruktur 0.5 mm
+;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;;184-2 Wölbstruktur 0.4 mm
 ;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;;184-3 glaskugelgestrahlt
 ;184;Metall;Eisenmetall;ME-EM-001;Edelstahl;;184-4 gebürstet
-;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;7;186-1 Wölbstruktur, beschichtet, 0.5mm
-;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;;186-2 Wölbstruktur, 1.15mm
+;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;7;186-1 Wölbstruktur beschichtet 0.5mm
+;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;;186-2 Wölbstruktur 1.15mm
 ;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;;186-3 länglich
 ;186;Metall;Nichteisenmetall;ME-NM-002;Aluminium;;186-4/7 Alutrim Musterstücke
 ;188;Mineralische Werkstoffe;Gestein;MW-GE-001;Phyllit;3;188-1 Natural Split
@@ -517,7 +517,7 @@
 ;207;Papier;Maschinengefertigtes Papier;PA-MP-001;Wölbstrukturiertes Papier;;207-2 rot
 ;207;Papier;Maschinengefertigtes Papier;PA-MP-001;Wölbstrukturiertes Papier;;207-3 weiss
 ;208;Papier;Maschinengefertigtes Papier;PA-MP-002;Museumskarton;18;208-1/18 vers. Dicken und Farben
-;209;Papier;Maschinengefertigtes Papier;PA-MP-002;Zelluloserfaser- Dämmstoff;4;209-1/2 Thermofloc, Beutel
+;209;Papier;Maschinengefertigtes Papier;PA-MP-002;Zelluloserfaser- Dämmstoff;4;209-1/2 Thermofloc Beutel
 ;209;Papier;Maschinengefertigtes Papier;PA-MP-002;Zelluloserfaser- Dämmstoff;;209-3 Dämmplatte
 ;209;Papier;Maschinengefertigtes Papier;PA-MP-002;Zelluloserfaser- Dämmstoff;;209-4 Dämmpellets
 ;229;Papier;X;PA-X-007;Papier beschichtet;1;229-1 Papier Wabenstruktur
@@ -526,7 +526,7 @@
 ;374;Papier;X;PA-X-003;Papier- Schaum- Chips;1;374-1 Kiste
 ;376;Papier;X;PA-X-003;Musterbücher Papier Union;2;376-1/2 Sammlung Musterbücher
 ;377;Papier;X;PA-X-003;Synthetikpapier;2;377-1 Mustermappe
-;377;Papier;X;PA-X-003;Synthetikpapier;;377-2 Musterpapier, 3 Stück
+;377;Papier;X;PA-X-003;Synthetikpapier;;377-2 Musterpapier 3 Stück
 ;378;Papier;X;PA-X-004;Siebdruck & Werbetechnik;1;378-1 Mustermappe
 ;379;Papier;X;PA-X-004;Feinstpapier;5;379-1 Mustermappe 'Mein Papier'
 ;379;Papier;X;PA-X-004;Feinstpapier;;379-2 Mustermappe 'Produkte & Farben'
@@ -537,16 +537,16 @@
 ;382;Papier;X;PA-X-004(neben);Rauhfaser- Tapete;1;382-1 Musterbuch 'Rauhfaser Strukturen'
 ;383;Papier;X;PA-X-004(neben);Offset- Papier;4;383-1 Mustermappe
 ;383;Papier;X;PA-X-004(neben);Offset- Papier;;383-2 Musterpapiere
-;383;Papier;X;PA-X-005;Offset- Papier;;383-3 recycling Papier 'Circle offset Premium White', Musterstücke
-;383;Papier;X;PA-X-005;Offset- Papier;;383-4 recycling Papier 'Cricle offset White', Musterstücke
-;384;Papier;X;PA-X-005;Papiermuster 'James Cropper';18;384-1/18 Musterstücke, vers. Farben und Dichten
+;383;Papier;X;PA-X-005;Offset- Papier;;383-3 recycling Papier 'Circle offset Premium White' Musterstücke
+;383;Papier;X;PA-X-005;Offset- Papier;;383-4 recycling Papier 'Cricle offset White' Musterstücke
+;384;Papier;X;PA-X-005;Papiermuster 'James Cropper';18;384-1/18 Musterstücke vers. Farben und Dichten
 ;385;Papier;X;PA-X-005;Drucktechniken;;385-1 Mustermappe 'heaven 42'
-;386;Papier;X;PA-X-006;Recycling Papier;4;386-1 Mustermappe Bilderdruck, matt, White
-;386;Papier;X;PA-X-006;Recycling Papier;;386-2 Mustermappe Bilderdruck, matt, Premium White
-;386;Papier;X;PA-X-006;Recycling Papier;;386-3 Mustermappe Bilderdruck, glänzend, Premium White
-;386;Papier;X;PA-X-006;Recycling Papier;;386-4 Mustermappe Naturpapier, Premium White
-;387;Papier;X;PA-X-006;Chromosulfatkarton;2;387-1 Musterstücke 'Invercote G', einseitig gestrichen, holzfrei, extra zäh
-;387;Papier;X;PA-X-006;Chromosulfatkarton;;387-2 Musterstücke 'Invercote Creato', beidseitig matt gestrichen, holzfrei
+;386;Papier;X;PA-X-006;Recycling Papier;4;386-1 Mustermappe Bilderdruck matt White
+;386;Papier;X;PA-X-006;Recycling Papier;;386-2 Mustermappe Bilderdruck matt Premium White
+;386;Papier;X;PA-X-006;Recycling Papier;;386-3 Mustermappe Bilderdruck glänzend Premium White
+;386;Papier;X;PA-X-006;Recycling Papier;;386-4 Mustermappe Naturpapier Premium White
+;387;Papier;X;PA-X-006;Chromosulfatkarton;2;387-1 Musterstücke 'Invercote G' einseitig gestrichen holzfrei extra zäh
+;387;Papier;X;PA-X-006;Chromosulfatkarton;;387-2 Musterstücke 'Invercote Creato' beidseitig matt gestrichen holzfrei
 ;388;Papier;X;PA-X-006;Druckpapier;3;388-1/3 Musterpakete
 ;392;Papier;X;PA-X-007;Spezial Papier;10;392-1 Musterstreifen
 ;392;Papier;X;PA-X-007;Spezial Papier;;392-2 Schablonenkarton 240g/m^2
@@ -558,7 +558,7 @@
 ;392;Papier;X;PA-X-007;Spezial Papier;;392-8 Heißsiegelpapier n60g/m^2 
 ;392;Papier;X;PA-X-007;Spezial Papier;;392-9 Papier Service Broschüre
 ;392;Papier;X;PA-X-007;Spezial Papier;;392-10 Papierkatalog
-;212;Pflanzliche Werkstoffe;X;PW-X-001;Kork;5;212-1 Kork, natur
+;212;Pflanzliche Werkstoffe;X;PW-X-001;Kork;5;212-1 Kork natur
 ;212;Pflanzliche Werkstoffe;X;PW-X-001;Kork;;212-2 Korkschüttung expandiert
 ;212;Pflanzliche Werkstoffe;X;PW-X-001;Kork;;212-3 Naturkorkschrot
 ;212;Pflanzliche Werkstoffe;X;PW-X-001;Kork;;212-4 Isolier- Kork
@@ -566,16 +566,16 @@
 ;213;Pflanzliche Werkstoffe;X;PW-X-002;Kokos;10;213-1/7 Humusziegel aus Kokosfasern (Nur 1-3)
 ;213;Pflanzliche Werkstoffe;X;PW-X-003;Kokos;;213-8 Kokosfasern
 ;213;Pflanzliche Werkstoffe;X;PW-X-003;Kokos;;213-9 Kokosfaserwand
-;213;Pflanzliche Werkstoffe;X;PW-X-003;Kokos;;213-10 Kokosfaser, verarbeitet
-;214;Pflanzliche Werkstoffe;X;PW-X-004;Tagua;3;214-1 Nuss, poliert
+;213;Pflanzliche Werkstoffe;X;PW-X-003;Kokos;;213-10 Kokosfaser verarbeitet
+;214;Pflanzliche Werkstoffe;X;PW-X-004;Tagua;3;214-1 Nuss poliert
 ;214;Pflanzliche Werkstoffe;X;PW-X-004;Tagua;;214-2 Frucht
-;214;Pflanzliche Werkstoffe;X;PW-X-004;Tagua;;214-3 Nuss, roh, Beutel
-;215;Pflanzliche Werkstoffe;X;PW-X-005;Bernstein;2;215-1 Bernstein, roh
-;215;Pflanzliche Werkstoffe;X;PW-X-005;Bernstein;;215-2 Bernstein, behandelt
+;214;Pflanzliche Werkstoffe;X;PW-X-004;Tagua;;214-3 Nuss roh Beutel
+;215;Pflanzliche Werkstoffe;X;PW-X-005;Bernstein;2;215-1 Bernstein roh
+;215;Pflanzliche Werkstoffe;X;PW-X-005;Bernstein;;215-2 Bernstein behandelt
 ;216;Pflanzliche Werkstoffe;X;PW-X-006;Sisalfasern;10;216-1 naturbelassen
 ;216;Pflanzliche Werkstoffe;X;PW-X-006;Sisalfasern;;216-2/10 Farbmuster
 ;217;Pflanzliche Werkstoffe;X;PW-X-007;Bambus;6;217-1/6 Bambuslamellen- Rollenware
-;218;Pflanzliche Werkstoffe;X;PW-X-006;Kapokfasern;1;218-1 Kapokfasern, Beutel
+;218;Pflanzliche Werkstoffe;X;PW-X-006;Kapokfasern;1;218-1 Kapokfasern Beutel
 ;219;Pflanzliche Werkstoffe;X;PW-X-010;Reishülsen- Polymer- Werkstoff;3;219-1/3 Terassendielen
 ;220;Pflanzliche Werkstoffe;X;PW-X-008;Hanf;12;220-1 Hanf- Lehm- Mischung
 ;220;Pflanzliche Werkstoffe;X;PW-X-008;Hanf;;220-2 Hanf- Dämmwolle
@@ -597,16 +597,16 @@
 ;234;Textile Werkstoffe;Faserverbundstoffe;TW-FV-002;Nadelvlies;4;234-1/3 Musterstücke
 ;234;Textile Werkstoffe;Faserverbundstoffe;TW-FV-002;Nadelvlies;;234-4 Mustermappe
 ;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;6;236-1
-;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;;236-2/4 Musterstücke (88% Polyester, 12% PUR)
+;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;;236-2/4 Musterstücke (88% Polyester 12% PUR)
 ;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;;236-5 Mustermappe
-;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;;236-6 Musterstück (85% Polyester, 15% PUR)
-;237;Textile Werkstoffe;Faserverbundstoffe;TW-FV-004;Polyethylen- Gewebe (Xorel: 85% biobashed PE, 15% PE);31;237-1/31 Musterstücke
+;236;Textile Werkstoffe;Faserverbundstoffe;TW-FV-003;Mikrofaserwirbelvlies;;236-6 Musterstück (85% Polyester 15% PUR)
+;237;Textile Werkstoffe;Faserverbundstoffe;TW-FV-004;Polyethylen- Gewebe (Xorel: 85% biobashed PE 15% PE);31;237-1/31 Musterstücke
 ;241;Textile Werkstoffe;Faserverbundstoffe;TW-FV-005;Filz ;5;241-1/5 Musterkarten
 ;254;Textile Werkstoffe;Faserverbundstoffe;TW-GW-006;Walkfilz;3;254-1/3 Mustermappe
 ;242;Textile Werkstoffe;Gewebe;TW-GW-006;Flor- Gewebe;1;242-1 Musterstück (100% Mohair)
 ;249;Textile Werkstoffe;Gewebe;TW-GW-006 (neben);Papierschnurgewebe;1;249-1 Mustermappe
-;255;Textile Werkstoffe;Gewebe;TW-GW-006;Samt;2;255-1 Musterstück, braun
-;255;Textile Werkstoffe;Gewebe;TW-GW-006;Samt;;255-2 Musterfächer (80% Baumwolle, 10% Modal, 10% Polyester)
+;255;Textile Werkstoffe;Gewebe;TW-GW-006;Samt;2;255-1 Musterstück braun
+;255;Textile Werkstoffe;Gewebe;TW-GW-006;Samt;;255-2 Musterfächer (80% Baumwolle 10% Modal 10% Polyester)
 ;257;Textile Werkstoffe;Gewebe;TW-GW-007;Denim;1;257-1 Hanf- Denim Mustermappe
 ;258;Textile Werkstoffe;Gewebe;TW-GW-007;Batist;1;258-1 Musterstück (100% Baumwolle)
 ;259;Textile Werkstoffe;Gewebe;TW-GW-007;Satin;1;259-1 Musterstück (100% Baumwolle)
@@ -644,7 +644,7 @@
 ;286;Textile Werkstoffe;Gewebe;TW-GW-009;Kalamkari Blumendruck;1;286-1 Mustermappe
 ;287;Textile Werkstoffe;Gewebe;TW-GW-009;Bezugsstoffe;1;287-1 Mustermappe
 ;288;Textile Werkstoffe;Gewebe;TW-GW-009;Baumwollgewebe;1;288-1 Mustermappe
-;288;Textile Werkstoffe;Gewebe;TW-GW-009;Baumwollgewebe;;288-2 Canvas 360, bedruckt mit Oberflächenbeschichtung
+;288;Textile Werkstoffe;Gewebe;TW-GW-009;Baumwollgewebe;;288-2 Canvas 360 bedruckt mit Oberflächenbeschichtung
 ;289;Textile Werkstoffe;Gewebe;TW-GW-009;Cutwork- Stoffe;1;289-1 Musterkarte (100% Baumwolle)
 ;290;Textile Werkstoffe;Gewebe;TW-GW-009;Crepe- Satin;1;290-1 Mustermappe
 ;291;Textile Werkstoffe;Gewebe;TW-GW-009;Futterseide;1;291-1 Mustermappe farbig
@@ -687,7 +687,7 @@
 ;310;Textile Werkstoffe;Maschenware;TW-MW-014;Jaquards;2;310-1 Mustermappe
 ;310;Textile Werkstoffe;Maschenware;TW-MW-014;Jaquards;;310-2 Jaquards & Strukturgewebe (Leinen & Halbleinen)
 ;311;Textile Werkstoffe;Maschenware;TW-MW-014;Seidenstrickstoffe;1;311-1 Mustermappe
-;313;Textile Werkstoffe;Maschenware;TW-MW-014;Singlejersey;1;313-1 Mustermappe (96% Baumwolle, 4% Elastan)
+;313;Textile Werkstoffe;Maschenware;TW-MW-014;Singlejersey;1;313-1 Mustermappe (96% Baumwolle 4% Elastan)
 ;315;Textile Werkstoffe;Maschenware;TW-MW-014;Interlockjersey;1;315-1 Musterkarte (100% Baumwolle)
 ;316;Textile Werkstoffe;Maschenware;TW-MW-014;Merinojersey;1;316-1 Musterkarte
 ;317;Textile Werkstoffe;Maschenware;TW-MW-014;Jamavar- Stoff;1;317-1 Musterkarte
@@ -729,33 +729,33 @@
 ;335;Tierische Werkstoffe;X;TI-X-004;Rosshaar;1;335-1 
 ;336;Tierische Werkstoffe;X;TI-X-004;Schafwolle;2;336-1/2 Dämmplatte aus Schafwolle
 ;390;Tierische Werkstoffe;X;TI-X-006;Feder;10;390-1 Truthahnfeder
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-2 Truthahnfeder, Schwanz
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-2 Truthahnfeder Schwanz
 ;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-3 Gänsekiel Schreibfeder
 ;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-4 Gänsefeder zweifarbig
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-5 Fasanenfeder, weiblich
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-5 Fasanenfeder weiblich
 ;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-6 Silberfasanfeder
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-7 Feldfasan, naturgestreift
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-8 Gänsefeder, zweifarbig
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-9 Truthahnfeder, naturgestreift
-;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-10 Truthahnfeder, naturschwarz
-;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-1 Hornrolle, Wasserbüffel
-;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-2 Büffelhorn,  Ganze Hornspitze
-;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-3 Hornplatte, hell, Wasserbüffel
-;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-4 Hornplatte, dunkel, Wassserbüffel
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-7 Feldfasan naturgestreift
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-8 Gänsefeder zweifarbig
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-9 Truthahnfeder naturgestreift
+;390;Tierische Werkstoffe;X;TI-X-006;Feder;;390-10 Truthahnfeder naturschwarz
+;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-1 Hornrolle Wasserbüffel
+;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-2 Büffelhorn  Ganze Hornspitze
+;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-3 Hornplatte hell Wasserbüffel
+;391;Tierische Werkstoffe;X;TI-X-006;Horn;;391-4 Hornplatte dunkel Wassserbüffel
 ;337;Wachs;X;WA-X-001;Carnaubawachs;1;337-1 Tüte
 ;338;Wachs;X;WA-X-001;Candelillwachs;1;338-1 Tüte
 ;339;Wachs;X;WA-X-001;Sonnenblumensamenwachs;1;339-1 Tüte
 ;340;Wachs;X;WA-X-001;Beerenwachs;1;340-1 Lippenpflegestift
 ;343;Wachs;X;WA-X-002;Fischer- Tropsch- Wachs;1;343-1 Deurex T39 (Deurex T39)
-;345;Wachs;X;WA-X-002;Zuckerrohrwachs;4;345-1 Natürliche, paraffinfrei (Deurex Bit)
+;345;Wachs;X;WA-X-002;Zuckerrohrwachs;4;345-1 Natürliche paraffinfrei (Deurex Bit)
 ;345;Wachs;X;WA-X-001;Zuckerrohrwachs;;345-2 Brocken (Deurex x52)
-;345;Wachs;X;WA-X-001;Zuckerrohrwachs;;345-3 Rohwachs aus Zuckerrohr, Brocken (Deurex x50)
+;345;Wachs;X;WA-X-001;Zuckerrohrwachs;;345-3 Rohwachs aus Zuckerrohr Brocken (Deurex x50)
 ;345;Wachs;X;WA-X-002;Zuckerrohrwachs;;345-4 Hybridwachs aus Zuckerrohr & Polyethylenwachs (Deurex H83G)
-;345;Wachs;X;WA-X-002;Zuckerrohrwachs;;345-5 Rohwachs aus Zuckerrohr, Pulver (Deurex 50P)
-;347;Wachs;X;WA-X-003;Polyehtylenwachs;7;347-1 Unpolare, hart (Deurex E09)
+;345;Wachs;X;WA-X-002;Zuckerrohrwachs;;345-5 Rohwachs aus Zuckerrohr Pulver (Deurex 50P)
+;347;Wachs;X;WA-X-003;Polyehtylenwachs;7;347-1 Unpolare hart (Deurex E09)
 ;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-2 Ölbindemittel aus Polyethylenwachs (Deurex Pure)
 ;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-3 Unpolar (Deurex E11F)
-;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-4 Polar, oxidiert (Deurex EO40)
+;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-4 Polar oxidiert (Deurex EO40)
 ;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-5 unpolar (Deurex E11K)
 ;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-6 Coplymeres Polyethylenvinylacetatwachs (Deurex EV03)
 ;347;Wachs;X;WA-X-003;Polyehtylenwachs;;347-7 Unpolar (Deurex E11G)
