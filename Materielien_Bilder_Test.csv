@@ -1,9 +1,9 @@
 ﻿id,Field 1,Materialnummer,Kategorie,Unterkategorie,Boxnumenummer,Name,Anzahl,Annmerkung,Bild
 1,,1,Farbmittel,Farbstoffe,FM-PI-001,Gummi Gutti Pulver 37050,1,Kleines Fläschen,hunde1.png (https://baserow-media.ams3.digitaloceanspaces.com/user_files/EiLNJ62Q1SXS7x4WfcNoc8ZyzRQ0xtQS_c1d3ecbfa346fde1b7e490f635afe1fd1c60f085d71ee2ed4062b9b44b24b99b.png)
 2,,2,Farbmittel,Farbstoffe,FM-PI-001,Sandelholz 36180,1,Kleines Fläschen,Bilder/hunde2.png
-3,,3,Farbmittel,Farbstoffe,FM-PI-001,Curcuma 37220,1,Kleines Fläschen,
-4,,4,Farbmittel,Farbstoffe,FM-PI-001,Henna schwarzfärbend 37510,1,Kleines Fläschen,
-5,,5,Farbmittel,Farbstoffe,FM-PI-001,Krappwurzeln ganz 37199,1,Kleines Fläschen,
+3,,3,Farbmittel,Farbstoffe,FM-PI-001,Curcuma 37220,1,Kleines Fläschen,https://baserow-media.ams3.digitaloceanspaces.com/user_files/EiLNJ62Q1SXS7x4WfcNoc8ZyzRQ0xtQS_c1d3ecbfa346fde1b7e490f635afe1fd1c60f085d71ee2ed4062b9b44b24b99b.png
+4,,4,Farbmittel,Farbstoffe,FM-PI-001,Henna schwarzfärbend 37510,1,Kleines Fläschen,C:\Users\Free_\Desktop\CSV TEST\Bilder\hunde1.png
+5,,5,Farbmittel,Farbstoffe,FM-PI-001,Krappwurzeln ganz 37199,1,Kleines Fläschen,\Bilder\hunde1.png
 6,,6,Farbmittel,Farbstoffe,FM-PI-001,Indigotin blau 94160,1,Kleines Fläschen,
 7,,7,Farbmittel,Farbstoffe,FM-PI-001,Rhodamin B 94900,1,Kleines Fläschen,
 8,,8,Farbmittel,Pigmente,FM-PI-001,Ägyptisch grün 10064,1,Kleines Fläschen,
